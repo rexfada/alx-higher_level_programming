@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-char_at(str, n):
+def remove_char_at(str, n):
     new = ""
     i = 0
     for c in str:
